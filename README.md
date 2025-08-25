@@ -23,22 +23,22 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-Loom Video itself: https://www.loom.com/share/dcb826b20ad24b40bcff1f64a7b75626?sid=e38559b1-9f35-4c64-82db-e4338bf00fd8
+<!-- Loom Video itself: https://www.loom.com/share/dcb826b20ad24b40bcff1f64a7b75626?sid=e38559b1-9f35-4c64-82db-e4338bf00fd8 -->
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://cdn.loom.com/sessions/thumbnails/dcb826b20ad24b40bcff1f64a7b75626-1c3d32fef46a6f8e-full-play.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<div>
+<!-- <div>
     <a href="https://www.loom.com/share/dcb826b20ad24b40bcff1f64a7b75626">
       <p>Loom Message - 25 August 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/dcb826b20ad24b40bcff1f64a7b75626">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dcb826b20ad24b40bcff1f64a7b75626-1c3d32fef46a6f8e-full-play.gif">
     </a>
-  </div>
+  </div> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with Loom
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
