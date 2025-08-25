@@ -38,7 +38,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with Loom
+GIF created with **Loom**
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -47,11 +47,11 @@ GIF created with Loom
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initially strugled with: - Positioning the images properly within the container - Displaying relevant properties for each game
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
