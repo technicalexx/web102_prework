@@ -47,7 +47,10 @@ GIF created with **Loom**
 
 ## Notes
 
-Initially strugled with: - Positioning the images properly within the container - Displaying relevant properties for each game
+Initially strugled with:
+
+- Positioning the images properly within the container
+- Displaying relevant properties for each game
 
 ## License
 
