@@ -29,7 +29,6 @@ Here's a walkthrough of implemented features:
 
 <div>
     <a href="https://www.loom.com/share/dcb826b20ad24b40bcff1f64a7b75626">
-      <p>Loom Message - 25 August 2025 - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/dcb826b20ad24b40bcff1f64a7b75626">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dcb826b20ad24b40bcff1f64a7b75626-1c3d32fef46a6f8e-full-play.gif">
