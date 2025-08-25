@@ -1,19 +1,19 @@
-# WEB102 Prework - _Name of App Here_
+# WEB102 Prework - _Sea Monster Crowdfunding_
 
-Submitted by: **Your Name Here**
+Submitted by: **Alex Rozin**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [x] The introduction section explains the background of the company and how many games remain unfunded.
-- [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-- [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-- [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -23,7 +23,18 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+Loom Video itself: https://www.loom.com/share/dcb826b20ad24b40bcff1f64a7b75626?sid=e38559b1-9f35-4c64-82db-e4338bf00fd8
+
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<div>
+    <a href="https://www.loom.com/share/dcb826b20ad24b40bcff1f64a7b75626">
+      <p>Loom Message - 25 August 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/dcb826b20ad24b40bcff1f64a7b75626">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/dcb826b20ad24b40bcff1f64a7b75626-1c3d32fef46a6f8e-full-play.gif">
+    </a>
+  </div>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
